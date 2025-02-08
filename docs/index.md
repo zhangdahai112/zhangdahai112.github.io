@@ -9,7 +9,6 @@
 * [接口测试 IDEA 插件](https://github.com/metersphere/metersphere-idea-plugin)
 * [运维神器 WebKVM](https://github.com/rackshift/webkvm)
 * [Web语音助手](https://voice.julianschoen.co/)
-* [类 Continue AI Coding插件（开发中）]()
 
 ## 在职业道路上，做过最疯狂的事情是什么？
 * 放弃稳定工作，全职投入独立开源项目开发，哪怕风险极高，哪怕最后失败了。
